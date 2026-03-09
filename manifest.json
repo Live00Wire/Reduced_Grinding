@@ -2,15 +2,15 @@
   "Group": "Live__Wire",
   "Name": "Reduced Grinding",
   "Version": "1.0.0",
-  "Description": "",
+  "Description": "WIP Mod for Hytale to add exchange for grindy items and ensure crafting for certain items",
   "Authors": [
     {
       "Name": "Live__Wire",
       "Email": "",
-      "Url": ""
+      "Url": "https://github.com/Live00Wire"
     }
   ],
-  "Website": "",
+  "Website": "https://github.com/Live00Wire/Reduced_Grinding",
   "ServerVersion": "2026.02.19-1a311a592",
   "Dependencies": {},
   "OptionalDependencies": {},
