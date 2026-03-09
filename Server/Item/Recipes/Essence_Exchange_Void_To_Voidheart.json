@@ -1,0 +1,21 @@
+{
+  "Input": [
+    {
+      "Quantity": 20,
+      "ItemId": "Ingredient_Void_Essence"
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Voidheart"
+  },
+  "BenchRequirement": [
+    {
+      "Type": "Crafting",
+      "Id": "Farmingbench",
+      "Categories": [
+        "Farming"
+      ]
+    }
+  ],
+  "OutputQuantity": 1
+}

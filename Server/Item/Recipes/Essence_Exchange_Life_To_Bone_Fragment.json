@@ -1,0 +1,21 @@
+{
+  "Input": [
+    {
+      "Quantity": 1,
+      "ItemId": "Ingredient_Life_Essence"
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Bone_Fragment"
+  },
+  "BenchRequirement": [
+    {
+      "Type": "Crafting",
+      "Id": "Farmingbench",
+      "Categories": [
+        "Farming"
+      ]
+    }
+  ],
+  "OutputQuantity": 1
+}

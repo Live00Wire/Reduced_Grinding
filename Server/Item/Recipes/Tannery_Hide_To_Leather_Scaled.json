@@ -1,0 +1,19 @@
+{
+  "Input": [
+    {
+      "Quantity": 1,
+      "ItemId": "Ingredient_Hide_Scaled"
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Leather_Scaled"
+  },
+  "BenchRequirement": [
+    {
+      "Type": "Processing",
+      "Id": "Tannery"
+    }
+  ],
+  "OutputQuantity": 1,
+  "TimeSeconds": 40
+}

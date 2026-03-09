@@ -1,0 +1,19 @@
+{
+  "Input": [
+    {
+      "Quantity": 1,
+      "ItemId": "Ingredient_Hide_Prismic"
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Leather_Prismic"
+  },
+  "BenchRequirement": [
+    {
+      "Type": "Processing",
+      "Id": "Tannery"
+    }
+  ],
+  "OutputQuantity": 1,
+  "TimeSeconds": 40
+}

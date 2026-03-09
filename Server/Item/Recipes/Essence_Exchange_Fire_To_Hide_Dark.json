@@ -1,0 +1,21 @@
+{
+  "Input": [
+    {
+      "Quantity": 30,
+      "ItemId": "Ingredient_Fire_Essence"
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Hide_Dark"
+  },
+  "BenchRequirement": [
+    {
+      "Type": "Crafting",
+      "Id": "Farmingbench",
+      "Categories": [
+        "Farming"
+      ]
+    }
+  ],
+  "OutputQuantity": 1
+}

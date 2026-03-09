@@ -1,0 +1,29 @@
+{
+  "Input": [
+    {
+      "Quantity": 10,
+      "ItemId": "Ingredient_Fire_Essence"
+    },
+    {
+      "Quantity": 10,
+      "ItemId": "Ingredient_Life_Essence"
+    },
+    {
+      "Quantity": 10,
+      "ItemId": "Ingredient_Ice_Essence"
+    }
+  ],
+  "PrimaryOutput": {
+    "ItemId": "Ingredient_Hide_Prismic"
+  },
+  "BenchRequirement": [
+    {
+      "Type": "Crafting",
+      "Id": "Farmingbench",
+      "Categories": [
+        "Farming"
+      ]
+    }
+  ],
+  "OutputQuantity": 1
+}
